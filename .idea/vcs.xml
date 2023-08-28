@@ -2,8 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/A_01_03_inline_module/hello_world/cfw-connector-registry" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/A_01_03_inline_module/hello_world/cfw-gateway" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/A_01_03_inline_module/hello_world/cfw-sample-connector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A_01_09_separate_modules/begin/separate_modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A_01_09_separate_modules/end/separate_modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A_02_01_test_functions/end/test_functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A_02_02_assert_macro/begin/assert_macro" vcs="Git" />
   </component>
 </project>
